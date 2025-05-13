@@ -2,4 +2,4 @@
 |----------|----------|----------|----------|
 | Catalina Medina | Lyup00 | mediina.moriis@gmail.com | cmedinam@estudiante.uc.cl |
 # Aporte
-Catalina Medina --> Todo
+Catalina Medina --> Única editora, hizo todo.
